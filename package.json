@@ -1,0 +1,22 @@
+{
+  "name": "@michaelwstark/packages-test",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwstark/packages-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "me!",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelwstark/packages-test/issues"
+  },
+  "homepage": "https://github.com/michaelwstark/packages-test#readme"
+}
